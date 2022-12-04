@@ -1,4 +1,4 @@
-# New_Earning_Tricks_Chatbot - chat bot
+# New_Earning_Tricks_Chatbot - Chat Bot
 It is repository for chat bot: [@New_Earning_Tricks_Chatbot](https://t.me/New_Earning_Tricks_Chatbot)
 
 ## What it is?
